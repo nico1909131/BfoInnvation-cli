@@ -102,10 +102,5 @@ logs\DD-MM-YYYY_exercise.log
 Darin stehen alle Schritte (INFO), Warnungen (WARN) und Fehler (ERROR).
 So kann man den Lauf später genau nachvollziehen.
 
-
-
-
-
-
-
-
+bash
+Code kopieren
